@@ -1,0 +1,9 @@
+{
+	"id": "ahh-personal-sync",
+	"name": "AHH Personal Sync",
+	"version": "0.3.0",
+	"minAppVersion": "1.12.0",
+	"description": "Keeps one Obsidian vault in step with one folder in the owner's work OneDrive.",
+	"author": "Advanced Home Health",
+	"isDesktopOnly": false
+}
