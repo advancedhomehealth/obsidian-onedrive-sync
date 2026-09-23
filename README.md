@@ -14,6 +14,6 @@ the organisation has assigned to it.
 
 1. Obsidian → Settings → Community plugins → Browse → **BRAT** → Install, Enable.
 2. BRAT → **Add beta plugin** → `advancedhomehealth/obsidian-onedrive-sync` → Add.
-3. Enable **AHH Personal Sync**, then Settings → AHH Personal Sync → **Sign in**.
+3. Enable **Azure Sync**, then Settings → Azure Sync → **Sign in**.
 
 On iPhone, keep the vault **On My iPhone** (not in iCloud): this plugin is its sync.
